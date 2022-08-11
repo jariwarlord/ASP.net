@@ -1,0 +1,59 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication3.WebForm1" %>
+ 
+<!DOCTYPE html>
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style>
+        body{
+            color:aliceblue;
+        }
+        table{
+            background-color:#ff6a00;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table border="0" style="width: 350px" class="tablo">
+            <tr>
+                <td  colspan="2">ASAL SAYILARI BULMA</td>
+            </tr>
+            <tr>
+                <td class="auto-style4">İlk Sayı</td>
+                <td aria-autocomplete="inline" class="auto-style11">
+                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4">Son Sayı</td>
+                <td aria-autocomplete="inline" class="auto-style11">
+                    <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4">&nbsp;</td>
+                <td aria-autocomplete="inline" class="auto-style9">
+                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Asal Olanları Bul" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4">İki Sayı Arasında Bulunan Asal Sayılar</td>
+                <td aria-autocomplete="inline" class="auto-style9">
+                    <asp:ListBox ID="ListBox1" runat="server" Height="186px" Width="149px"></asp:ListBox>
+                    <br />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4" colspan="2">
+                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                </td>
+            </tr>
+        </table>
+        </div>
+    </form>
+</body>
+</html>
+ 

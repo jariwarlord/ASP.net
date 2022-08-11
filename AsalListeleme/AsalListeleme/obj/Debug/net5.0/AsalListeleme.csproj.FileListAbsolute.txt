@@ -1,0 +1,8 @@
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.csproj.AssemblyReference.cache
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.AssemblyInfoInputs.cache
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.AssemblyInfo.cs
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.RazorAssemblyInfo.cache
+C:\Users\berke\source\repos\AsalListeleme\AsalListeleme\obj\Debug\net5.0\AsalListeleme.RazorAssemblyInfo.cs
